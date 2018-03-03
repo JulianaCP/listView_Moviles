@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ListViewPersonalizado</string>
+    <string name="stringRadioButtonGourmet">Gourmet Restaurant</string>
+    <string name="stringRadioButtonBuffet">Buffet Restaurant</string>
+    <string name="stringRadioButtonFastFood">Fast Food Restaurant</string>
+
+    <string name="stringButtonCreate">Create Restaurant</string>
+
+
+    <string name="stringTitleType">Type</string>
+
+    <string name="stringTitleTelefone">Telefone</string>
+    <string name="stringTitlePoints">Points</string>
+    <string name="stringTitleAddress">Address</string>
+    <string name="stringTitleName">Name</string>
+    <string name="stringTitleRestaurantList">List of Restaurants</string>
+
+
+    <string name="stringTitleAddRestaurant">Add Restaurant</string>
+
+
+</resources>
